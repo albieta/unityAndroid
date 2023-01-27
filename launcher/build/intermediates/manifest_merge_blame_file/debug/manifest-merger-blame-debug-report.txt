@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="edu.upc.dsa.Unity_DSA"
+5    android:installLocation="preferExternal"
+6    android:versionCode="1"
+7    android:versionName="1.0" >
+8
+9    <uses-sdk
+10        android:minSdkVersion="22"
+10-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml
+11        android:targetSdkVersion="33" />
+11-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml
+12
+13    <supports-screens
+13-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:3-163
+14        android:anyDensity="true"
+14-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:135-160
+15        android:largeScreens="true"
+15-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:78-105
+16        android:normalScreens="true"
+16-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:49-77
+17        android:smallScreens="true"
+17-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:21-48
+18        android:xlargeScreens="true" />
+18-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:3:106-134
+19
+20    <application
+20-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:4:3-121
+21        android:banner="@drawable/app_banner"
+21-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:4:81-118
+22        android:icon="@mipmap/app_icon"
+22-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:4:49-80
+23        android:label="@string/app_name" />
+23-->C:\Users\albar\OneDrive\Desktop\4A\DSA\PROJECTE\FINAL\UnityAndroid\launcher\src\main\AndroidManifest.xml:4:16-48
+24
+25</manifest>
